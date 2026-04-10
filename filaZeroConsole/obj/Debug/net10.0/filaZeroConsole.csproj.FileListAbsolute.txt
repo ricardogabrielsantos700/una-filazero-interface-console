@@ -1,0 +1,14 @@
+C:\Users\User\Documents\filaZeroConsole\bin\Debug\net10.0\filaZeroConsole.exe
+C:\Users\User\Documents\filaZeroConsole\bin\Debug\net10.0\filaZeroConsole.deps.json
+C:\Users\User\Documents\filaZeroConsole\bin\Debug\net10.0\filaZeroConsole.runtimeconfig.json
+C:\Users\User\Documents\filaZeroConsole\bin\Debug\net10.0\filaZeroConsole.dll
+C:\Users\User\Documents\filaZeroConsole\bin\Debug\net10.0\filaZeroConsole.pdb
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\filaZeroConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\filaZeroConsole.AssemblyInfoInputs.cache
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\filaZeroConsole.AssemblyInfo.cs
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\filaZeroConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\filaZeroConsole.dll
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\refint\filaZeroConsole.dll
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\filaZeroConsole.pdb
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\filaZeroConsole.genruntimeconfig.cache
+C:\Users\User\Documents\filaZeroConsole\obj\Debug\net10.0\ref\filaZeroConsole.dll

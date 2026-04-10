@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "filaZeroConsole/1.0.0": {
+        "runtime": {
+          "filaZeroConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "filaZeroConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
